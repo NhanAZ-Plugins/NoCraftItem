@@ -1,10 +1,10 @@
 ---
 name: NoCraftItem
-version: 0.0.2
+version: 0.0.3
 main: NhanAZ\NoCraftItem\Main
 api: 5.0.0
 
-website: https://github.com/NhanAZ
+website: https://github.com/NhanAZ-Plugins/NoCraftItem
 description: Prevent players from crafting specified items
 author: NhanAZ
 
