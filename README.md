@@ -1,6 +1,15 @@
 # NoCraftItem
 
-NoCraftItem prevents players from crafting configured items on an Axolotl-PM server.
+Block configured crafting outputs on Axolotl-PM with validated item rules and operator bypass.
+
+[![CI](https://github.com/NhanAZ-Plugins/NoCraftItem/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/NoCraftItem/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/NoCraftItem)](https://github.com/NhanAZ-Plugins/NoCraftItem/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/NoCraftItem)](https://github.com/NhanAZ-Plugins/NoCraftItem/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Features
 
